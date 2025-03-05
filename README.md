@@ -1,1 +1,1 @@
-[omdbclone]("https://imdbclone.bytexl.live/")
+(omdbclone)["https://imdbclone.bytexl.live/"]
